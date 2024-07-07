@@ -1,8 +1,4 @@
 /**
-   Name: Mohammad Sultani
-   Date: 11/2/2022
-   Course/Section: IT 206
-   Assignment: Programming Assignment 8
   
    Description:
    
@@ -10,8 +6,6 @@
       The application provides info for two different kind of products “Liquid” and “Powder”. 
       The application will ask the user what kind of product they want to add to the inventory. 
       After they selected the type of product then based on the type of product, the application will ask question from the user about the product.      
-
-
 
 **/
 
